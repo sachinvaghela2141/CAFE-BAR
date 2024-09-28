@@ -1,82 +1,82 @@
-*{
+* {
+
     padding: 0;
     margin: 0;
+    font-style: arial;
     box-sizing: border-box;
-    font-size: arial;
-
-
-} 
- 
- 
- /* .br{
-    border: 3px solid red;
-}
-.bg{
-    border: 3px solid gold;
-}
-.blu{
-
-    border: 3px solid blue;
-}
-.blk{
-    border: 3px solid black;
 }
 
-.gr{
+.red {
+    border: 2px solid red;
+}
 
-    border: 3px solid greenyellow;
+.blue {
+    border: 2px solid blue;
 }
-.gn{
-    border: 5px solid rgb(49, 211, 49);
 
+.gold {
+    border: 2px solid gold;
 }
-.pu{
-    border: 3px solid purple;
-}  */
 
-/* ----------------------height---------- */
-.h-100vh{
-    min-height: 100vh;
-}
-.h-900{
-   min-height:900px ; 
+.black {
 
-}
-.h-800{
-
-   min-height: 800px;
-}
-.h-700{
-    min-height: 700px;
-}
-.h-600{
-    min-height: 600px;
+    border: 2px solid black;
 
 }
 
-.h-500{
+
+.h-100 {
+    min-height: 100px;
+
+}
+
+
+.h-100 {
+    min-height: 100px;
+
+}
+
+
+.h-100 {
+    min-height: 100px;
+
+}
+
+
+.h-200 {
+    min-height: 200px;
+
+}
+
+
+.h-300 {
+    min-height: 300px;
+
+}
+
+.h-400 {
+    min-height: 400px;
+
+}
+
+.h-500 {
     min-height: 500px;
 
 }
-.h-400{
-min-height: 400px;
-}
-.h-300{
-   min-height: 300px; 
-}
-.h-200{
-    min-height: 200px;
-}
-.h-150{
-    min-height: 150px;
-}
-.h-100{
-   min-height: 100px; 
-}
 
-.logo{
-    background: url(leaf-cofee-logo.jpg);
-    height: 100%;
-    width: 100%;
-    background-size: cover;
-}
+.h-600{
+    min-height:600px ; 
+  
+  }
+
+  .h-700{
+    min-height:700px ; 
+  
+  }
+
+  .h-800{
+    min-height:800px ; 
+  
+  }
+
+  
